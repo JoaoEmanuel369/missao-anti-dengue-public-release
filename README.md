@@ -1,4 +1,4 @@
-# missao-anti-dengue-public-release
+# missao-anti-dengue-public-release 🦟🍎
 ## Lançamento Publico do GitHub do Missão Anti-Dengue [DEMO]
 Este trabalho academico apresenta um jogo do gênero plataforma sidescroller, com a temática da dengue. Ele tem objetivo conscientizar os jogadores de forma interativa, dinâmica, divertida e desafiadora sobre o combate da dengue. Se utilizando de gráficos e mecânicas simples, como forma de traduzir esta ideia.
 
